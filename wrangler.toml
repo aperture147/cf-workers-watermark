@@ -6,7 +6,7 @@ compatibility_date = "2024-08-21"
 workers_dev = false
 
 routes = [
-  { pattern = "watermark.example.com", custom_domain = true }
+  { pattern = "some.domain.com", custom_domain = true }
 ]
 
 # Automatically place your workloads in an optimal location to minimize latency.
